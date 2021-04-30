@@ -7,7 +7,7 @@ My name is Heewon Kim, currently a senior at #NYU 🗽 majoring computer science
 #optimistic
 #artistic
 
-- 🌱 I’m currently learning data science, applied internet technology. 
+- 🌱 I’m currently learning data science, web application. 
 - 💗 I love sql queries, visualizing/handling data, and learning new web application tools. 
 - 📫 How to reach me: @one2byeinsta on instagram
 - 😄 Pronouns: she/her/hers
